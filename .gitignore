@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# Raw Trainer checkpoint dir (the real committed artifact is finetuning/adapter/,
+# saved explicitly via save_pretrained after training)
+qwen-lora-dolly/
+finetuning/qwen-lora-dolly/

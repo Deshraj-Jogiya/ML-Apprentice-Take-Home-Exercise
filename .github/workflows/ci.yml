@@ -21,3 +21,14 @@ jobs:
         run: |
           python models/multitask_model.py
           python models/train_multitask.py
+
+  finetuning-adapter-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r finetuning/requirements.txt
+      - name: Run the real LoRA adapter regression test (real base model + real committed adapter, no mocks)
+        run: python -m unittest tests.test_finetuned_adapter -v

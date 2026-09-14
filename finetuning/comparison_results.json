@@ -1,0 +1,32 @@
+[
+  {
+    "instruction": "What are fun things to do in New York City",
+    "reference_response": "1. Plan a trip to Central Park \n2. Go shopping on Fifth Avenue \n3. Get a New York City Bagel \n4. Take the Subway to visit the Statue of Liberty",
+    "base_output": "New York City is a vibrant and diverse city with many exciting activities for visitors of all ages! Here are some fun things you can do:\n\n1. Explore the Big Apple: Take a stroll through Central Park or explore the Manhattan skyline from the top of the Empire State Building.\n\n2. Visit museums and galleries: From the Metropolitan Museum of Art to the Whitney Museum of American Art, there's something for everyone in New York City.\n\n3. Try local cuisine: Sample delicious food at restaurants like The Plow, Bistro La Pecelle, or the famous Italian restaurant, Le Cirque.\n\n4. Go shopping: Visit the iconic stores like Macy's, J. Paul Getty Center, or the Fonda Collection.\n\n5. Attend live music events",
+    "finetuned_output": "There are many fun things to do in New York City. Here are some of the most popular ones:\n1. Take a walk through Central Park or Times Square.\n2. Visit the Metropolitan Museum of Art and see famous works of art.\n3. Go to the Brooklyn Bridge and enjoy the views from above.\n4. Explore the unique architecture of Manhattan's neighborhoods like SoHo and Midtown.\n5. Try out the city's many restaurants and cafes.\n6. Attend a Broadway show or concert.\n7. Take a bike ride on the Hudson River.\n8. Visit the Statue of Liberty and Ellis Island.\n9. Enjoy a hot dog at a street vendor.\n10. Watch a movie at a local theater."
+  },
+  {
+    "instruction": "What are the most airplanes to learn how to fly?",
+    "reference_response": "The most popular single engine propeller plane in the United States is Cessna 172 model, where it gives pilots the ability to complete visual flight rules (VFR) flying as well as Instrument flight rules (IFR). Cessnas tend to be reliable and safe planes with proper maintenance.",
+    "base_output": "The most airplanes to learn how to fly are the ones that have been around for over 10 years. These include the Boeing 737, Airbus A320, and Airbus A380.",
+    "finetuned_output": "The most airplanes to learn how to fly are the ones that have been around for over 10 years. These include the Boeing 737, Airbus A320, and Airbus A380."
+  },
+  {
+    "instruction": "What are the main types of Thai curries?",
+    "reference_response": "Green curry\nRed Curry\nYellow Curry\nMassaman Curry\nPanang Curry",
+    "base_output": "There are many different types of Thai curries, but they can be broadly classified into two categories: spicy and non-spicy.\n\nSpicy Thai curries include:\n- Green curry\n- Red curry\n- Black curry\n\nNon-spicy Thai curries include:\n- Mango curry\n- Peanut curry\n- Curry chicken\n- Chicken curry\n- Fish curry\n- Vegetable curry\n- Beef curry\n- Lamb curry\n- Tofu curry\n- Chicken noodle soup\n- Vegetable stir-fry\n- Rice noodles with curry sauce",
+    "finetuned_output": "There are many different types of Thai curries, but they can be broadly classified into two categories: spicy and non-spicy.\n\nSpicy Thai curries include:\n- Green curry\n- Red curry\n- Black curry\n\nNon-spicy Thai curries include:\n- Mango curry\n- Peanut curry\n- Curry chicken\n- Chicken curry\n- Fish curry\n- Vegetable curry\n- Beef curry\n- Lamb curry\n- Tofu curry\n- Chicken noodle soup\n- Vegetable stir-fry\n- Rice noodles with curry sauce"
+  },
+  {
+    "instruction": "Tell me about the junk mail circle of life",
+    "reference_response": "Companies send mailers to every home in a certain vicinity/zip code. The post office delivers the junk mail to your mailbox. You get your mail and place the junk mail in the garbage. You take your garbage out for collection. The garbage people throw the junk mail into the dumpster. The end.",
+    "base_output": "The Junk Mail Circle of Life is a term coined by the British author and journalist, John Galsworthy in 1935 to describe the cycle of sending out letters that are never received. The term was used to describe the process of sending out letters that were never read or opened by their recipients. This can be seen as an attempt to break the cycle of sending out letters that are never received.",
+    "finetuned_output": "The Junk Mail Circle of Life is a term coined by the British author and journalist, John Galsworthy in 1935 to describe the cycle of sending out letters that are never received. The term was used to describe the process of sending out letters that were never read or opened by their recipients. This can be seen as an attempt to break the cycle of sending out letters that are never received."
+  },
+  {
+    "instruction": "Tell me whether these games are exclusives or multi-platform: The Legend of Zelda, Call of Duty, Sly Cooper, God of War, Counter-Strike, Mario, Pokemon, Halo, Dota, League of Legends.",
+    "reference_response": "The Legend of Zelda, Sly Cooper, God of War, Mario, Pokemon and Halo have been at least been historically advertised and classified as console exclusives: Zelda, Mario and Pokemon on Nintendo platforms, God of War and Sly Cooper on Sony Playstation platforms, Halo on Microsoft Xbox Platforms.\n\nLately, some of the games above, God of War and Halo, have been ported PC which makes them multi-platform games. God of War is considered as a timed exclusive to Playstation systems where the game was exclusive to the console for several years before being released to other platforms, in this case PC.\n\nHalo has recently became PC and Xbox multi-platform dur to Microsoft's push to bring more of their console games to their PC gaming platform.\n\nRest of the games, Call of Duty, Counter-Strike, Dota and League of Legends are considered multi-platform as they have been released to multiple types of systems without ever being advertised as exclusive to one. \n\nBe mindful that releasing a game to Windows PC and Apple MacOS is considered as multi-platform.",
+    "base_output": "The Legend of Zelda is an exclusive game. Call of Duty and Sly Cooper are multi-platform games. God of War, Counter-Strike, Mario, Pokemon, Halo, Dota, League of Legends are all exclusive games.",
+    "finetuned_output": "The Legend of Zelda is an exclusive game. Call of Duty and Sly Cooper are multi-platform games. God of War, Counter-Strike, Mario, Pokemon, Halo, Dota, League of Legends are all exclusive games."
+  }
+]
